@@ -15,3 +15,15 @@ elif left == right or left == bottom or right == bottom:
     print("Triângulo Isósceles: dois lados com o mesmo valor")
 else:
     print("Triângulo Escaleno: todos os lados com medidas distintas")
+    
+
+# CASOS DE TESTE
+
+# Inserir 3 valores iguais
+# Resultado: triângulo equilátero
+
+# Inserir 2 valores iguais
+# Resultado: triângulo isósceles
+
+# Inserir 3 valores distintos
+# Resultado: triângulo escaleno
