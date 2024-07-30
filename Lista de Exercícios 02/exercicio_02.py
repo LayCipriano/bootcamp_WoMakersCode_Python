@@ -14,3 +14,17 @@ elif turno == 'N':
     print("Boa Noite!")
 else:
     print("Valor inválido!")
+    
+    
+# CASOS DE TESTE
+
+# Inserir letra M maiúscula
+# Inserir letra m minúscula
+
+# Inserir letra V maiúscula
+# Inserir letra v minúscula
+
+# Inserir letra N maiúscula
+# Inserir letra n minúscula
+
+# Inserir qualquer outra letra : laço else
