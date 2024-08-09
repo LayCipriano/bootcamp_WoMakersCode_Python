@@ -15,7 +15,7 @@ def fahrenheitToCelsius(medida):
     resCelsius = (medida - 32) * 5/9
     print(f"A conversão de {medida}°F é igual a {resCelsius}°C")
 
-    # Main - menu do usuário | Processamento das demais funções
+# Main - menu do usuário | Processamento das demais funções
 def main():
 # Valor inputado pelo usuário
     try:
