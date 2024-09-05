@@ -1,0 +1,41 @@
+:root {
+    --primary: #003c43;
+    --secondary: #135d66;
+    --tertiary: #77b0aa;
+    --quartenary: #e3fef7;
+}
+
+/* cor de fundo */
+body {
+    background-color: var(--secondary);
+}
+
+/* cor de fundo - navbar */
+.navbar-custom {
+    background-color: var(--tertiary);
+}
+
+/* cor da fonte - navbar > links */
+.nav-link-custom {
+    color: var(--primary);
+}
+
+/* cor da fonte - título h1 */
+.h1-custom {
+    color: var(--tertiary);
+    margin: 10px 0 15px 0;
+}
+
+.h3-custom {
+    text-align: center;
+    color: var(--tertiary);
+}
+
+.center-custom {
+    text-align: center;
+}
+
+.btn-custom {
+    color: var(--primary);
+    width: 100%;
+}
