@@ -1,5 +1,6 @@
 # Ambiente virtual
 venv/
+.venv/
 .env/
 bin/
 lib/
@@ -18,7 +19,6 @@ env/Include/
 env/Lib/
 env/Lib64/
 share/
-
 
 
 # Arquivos de configuração do PyCharm
